@@ -1,0 +1,9 @@
+const background = "assets/icon/background_location.png";
+const logotaxi = "assets/icon/logo_taxi.png";
+const back = "assets/icon/icon_back.png";
+const facebook= "assets/icon/icon_fb.png";
+const google = "assets/icon/icon_gg.png";
+const insta = "assets/icon/icon_insta.png";
+const faceid = "assets/icon/icon_faceid.png";
+const vietnam = "assets/icon/vietnam.png";
+const iconPhone = 'assets/icon/icon_phone.png';
